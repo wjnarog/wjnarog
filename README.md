@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Walker's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjnarog&show_icons=true&theme=gruvbox)
+![Walker's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjnarog&show_icons=true&theme=radical)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=wjnarog&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=wjnarog&theme=gruvbox&border_radius=4.5)
