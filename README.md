@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/wjnarog/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wjnarog&theme=radical&include_all_commits=true" />
 </a>
-<!-- <a href="https://github.com/wjnarog/convoychat">
+<a href="https://github.com/wjnarog/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wjnarog&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a> -->
+</a>
